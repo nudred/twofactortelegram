@@ -1,0 +1,7 @@
+﻿base   twofactortelegram
+author Tyler Durden, Andreas Gohr, Michael Wilmes
+email  mpu.cmo@gmail.com
+date   2022-10-06
+name   Two Factor Authentication - Telegram Plugin
+desc   Telegram support plugin for the Twofactor authentication plugin.
+url    https://www.dokuwiki.org/plugin:twofactortelegram
