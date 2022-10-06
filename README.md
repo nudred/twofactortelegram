@@ -1,4 +1,4 @@
-twofactortelegram
+# twofactortelegram
 
 Telegram support plugin for the Twofactor authentication plugin.
 
